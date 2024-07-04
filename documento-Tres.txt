@@ -1,0 +1,1 @@
+Algunos de los conceptos clave en Git incluyen repositorios (donde se almacena el historial de versiones), commits (registros de cambios), ramas (versiones paralelas del código), y fusiones (integración de cambios de una rama a otra).
