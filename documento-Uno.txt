@@ -1,1 +1,1 @@
-Git te permite llevar un registro de los cambios realizados en archivos a lo largo del tiempo, de modo que puedas revertir a versiones anteriores, trabajar en diferentes ramas de desarrollo de manera simultánea, y colaborar de forma efectiva con otros desarrolladores. 
+Git te permite llevar un registro de los cambios realizados en archivos a lo largo del tiempo, de modo que puedas revertir a versiones anteriores. 

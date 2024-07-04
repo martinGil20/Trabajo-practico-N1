@@ -1,0 +1,1 @@
+GitHub es una plataforma de desarrollo colaborativo basada en Git que facilita la gestión de proyectos de software.
